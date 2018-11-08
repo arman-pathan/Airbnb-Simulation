@@ -1,0 +1,116 @@
+.browse {
+  display: none;
+}
+
+.form-style {
+  margin-right: 40%;
+  margin-top: 5%;
+}
+
+.box-width {
+  width: 55%;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.button-left {
+  margin-right: 90%;
+}
+
+.jumbotron-style {
+  height: 200px;
+  background-color: rgb(255, 255, 255);
+}
+
+.navbar-color {
+  background-color: white;
+}
+
+.container-style {
+  background-color: white;
+}
+
+.mainpage {
+  margin: -650px 0 0 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: auto;
+  padding: 14px;
+  width: 50%;
+  float: right;
+  margin-right: 20%;
+}
+
+.shadow {
+  box-shadow: 5px 11px 20px 10px #000000;
+}
+
+#navbar {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+#navbar ul {
+  margin-left: -71%;
+  margin-top: 1%;
+  padding: 2%;
+  background-color: beige;
+}
+
+#navbar li {
+  padding-right: 1%;
+  display: inline;
+}
+
+#navbar a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 18px;
+  padding-right: 15px;
+}
+
+#navbar a:hover {
+  color: rgb(83, 5, 5);
+  text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 25px rgb(250, 250, 250),
+    0 0 5px darkblue;
+}
+
+.profilepic {
+  width: 800px;
+  height: 200px;
+  border: 1px solid;
+  border-style: dashed;
+  background-color: rgb(241, 241, 241);
+  padding: 4%;
+  margin-bottom: 5%;
+  margin-top: 4%;
+}
+.middletext {
+  margin-top: -8%;
+}
+
+.profile {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: auto;
+  height: 1260px;
+  margin-top: 5%;
+
+  width: 50%;
+  padding: 30px;
+  background-color: white;
+}
+
+.profileform h2 {
+  margin: 6%;
+  font-size: 250%;
+}
+
+.profileform .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  width: 40%;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}

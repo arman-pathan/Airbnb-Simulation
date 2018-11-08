@@ -1,0 +1,44 @@
+.results {
+  margin-top: 40%;
+  height: auto;
+  width: 60%;
+}
+
+.bookstyle {
+  margin-left: 35%;
+  width: 30%;
+}
+
+.sideimage {
+  margin-top: -370px;
+  margin-left: 700px;
+  height: auto;
+  width: 60%;
+}
+
+.styledescription {
+  margin-bottom: -2%;
+  padding: 2%;
+}
+
+.card-title {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.searchbar {
+  margin-left: -185px;
+}
+
+.boxshadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.searchbutton {
+  margin-top: -8px;
+}
+
+.prop {
+  margin-top: 5%;
+  margin-bottom: 4%;
+  margin-left: 28%;
+  margin-right: 28%;
+}

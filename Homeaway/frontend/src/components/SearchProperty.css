@@ -1,0 +1,40 @@
+.results {
+  float: left;
+
+  width: 80%;
+  margin-top: 5%;
+}
+
+.bookstyle {
+  margin-left: 35%;
+  width: 30%;
+}
+
+.styledescription {
+  margin-bottom: 12%;
+  padding: 2%;
+}
+
+.card-title {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.searchbar {
+  margin-left: -185px;
+}
+
+.boxshadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.searchbutton {
+  margin-top: -8px;
+}
+
+form {
+  display: inline;
+}
+
+.pages {
+  margin-top: -20%;
+  margin-left: 42%;
+}

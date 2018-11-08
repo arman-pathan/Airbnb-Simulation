@@ -1,0 +1,27 @@
+.formcenter {
+  margin-left: 30%;
+}
+
+h3 {
+  text-shadow: 2px 2px 5px rgb(37, 21, 21);
+}
+
+.back {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron-style {
+  height: 200px;
+  background-color: rgb(241, 241, 241);
+}
+
+.background {
+  background-color: rgb(241, 241, 241);
+}
+
+.container-style {
+  background-color: white;
+}

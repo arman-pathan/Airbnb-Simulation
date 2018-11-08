@@ -1,0 +1,74 @@
+.detail {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  margin-top: 50px;
+  height: auto;
+  width: 55%;
+  float: left;
+}
+
+.bookstyle {
+  margin-left: 35%;
+  width: 30%;
+}
+
+.sidediv {
+  margin-left: 65%;
+  height: auto;
+  width: 39%;
+  float: right;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  margin-top: -800px;
+}
+
+.styledescription {
+  margin-bottom: 5%;
+  padding-bottom: 15%;
+}
+
+.card-title {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.checkboxcolor {
+  color: rgb(16, 173, 16);
+}
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: none;
+  border-color: #ccc;
+  margin: 0px auto;
+}
+.tg td {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  padding: 20px 20px;
+  border-style: solid;
+  border-width: 0px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: #ccc;
+  color: #333;
+  background-color: #fff;
+}
+.tg th {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 20px 20px;
+  border-style: solid;
+  border-width: 0px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: #ccc;
+  color: #333;
+  background-color: #f0f0f0;
+}
+
+.iconscolor {
+  color: rgb(143, 148, 143);
+}
