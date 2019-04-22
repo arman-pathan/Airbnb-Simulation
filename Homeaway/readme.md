@@ -1,6 +1,6 @@
 ---
 
-                    LAB 2
+                    HOMEAWAY SIMULATION
 
 ---
 
